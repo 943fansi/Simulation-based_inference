@@ -12,6 +12,10 @@
 - Toolkit 
     - **[Simulation-based inference toolkit](https://github.com/sbi-dev/sbi)**
 
+- Video
+    - **[Shulin gave a tutorial on the use of Simulation Based Inferencing (SBI)](https://www.youtube.com/watch?v=Zbu3Qib4VBc)**
+    - **[Simulation Based Inference tutorial](https://www.youtube.com/watch?v=TsSbW4MYWbM&list=PLJ71tqAZr195v4B42fOGzHMjHBR0bWw1X)**
+    - **[Christoph Weniger - Simulation-based inference for large forward models](https://www.youtube.com/watch?v=9ZM6PxL2vcw)**
 - [Simulation-based, Finite-sample Inference for Privatized Data](https://arxiv.org/abs/2303.05328)
 
     - 2024, Jordan Awan, Zhanyu Wang
@@ -73,6 +77,11 @@ using simulation-based inference](https://github.com/andererka/SBI_for_EEG/blob/
 
     - 2021, Jan-Matthis Lueckmann, Jan Boelts
     - [[Official Code - sbibm](https://github.com/sbi-benchmark/sbibm)]
+
+- [A Trust Crisis In Simulation-Based Inference? Your Posterior Approximations Can Be Unfaithful](https://arxiv.org/abs/2110.06581)
+
+    - 2021, Joeri Hermans, Arnaud Delaunoy
+    - [[Official Code - trust-crisis-in-simulation-based-inference](https://github.com/montefiore-ai/trust-crisis-in-simulation-based-inference)]
 
 - [The frontier of simulation-based inference](https://doi.org/10.1073/pnas.1912789117)
     - 2020, Kyle Cranmer, Johann Brehmer
