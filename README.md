@@ -64,6 +64,11 @@ using simulation-based inference](https://github.com/andererka/SBI_for_EEG/blob/
     - 2022, Tri Nguyen, Siddharth Mishra-Sharma
     - [[Official Code - JeansGNN](https://github.com/trivnguyen/JeansGNN)]
 
+- [Bayesian model comparison for simulation-based inference](https://arxiv.org/abs/2207.04037)
+
+    - 2022, A. Spurio Mancini, M. M. Docherty
+    - [[Official Code - harmonic](https://github.com/astro-informatics/harmonic)]
+
 - [Benchmarking Simulation-Based Inference](https://proceedings.mlr.press/v130/lueckmann21a.html)
 
     - 2021, Jan-Matthis Lueckmann, Jan Boelts
